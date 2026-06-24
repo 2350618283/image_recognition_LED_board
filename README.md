@@ -1,0 +1,2 @@
+# image_recognition_LED_board
+这是一个基于YOLO11s-obb的图像识别项目，主要用于

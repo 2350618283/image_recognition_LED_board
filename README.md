@@ -83,3 +83,8 @@ train_LED为本项目训练目录
     ├─images_board
     
     └─labels_txt
+
+
+
+
+在线标注工具推荐https://www.makesense.ai/
